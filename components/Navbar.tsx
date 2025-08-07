@@ -9,7 +9,7 @@ export default function Navbar() {
     <nav className="fixed top-0 left-0 w-full bg-black/10 backdrop-blur-sm text-white z-50 px-6">
       <div className="flex justify-between items-center py-4">
         <div className="text-lg font-semibold text-cyan-400">
-          Дашдор Гэлэгжамц
+          Дашдорж Гэлэгжамц
         </div>
 
         <div className="md:hidden">
